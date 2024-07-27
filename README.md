@@ -1,4 +1,4 @@
-# Project File Reader
+# Project Prompter
 
 This Python script reads the contents of specified folders within a project and writes the contents of each file into a single output text file. The script ignores image and icon files based on their extensions.
 
